@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:precise
 MAINTAINER Aater Suleman <aater@flux7.com>
 RUN apt-get update 
 #RUN apt-get -y upgrade
